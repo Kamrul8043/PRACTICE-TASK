@@ -1,0 +1,58 @@
+.blog{
+    color: chocolate;
+    text-align: left;
+    background-color: azure;
+}
+
+.blog2{
+    color: tomato;
+    text-align: justify;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: inherit;
+}
+#new{
+    text-align: center;
+    color: tomato;
+    font-size: 24px;
+}
+.dolor{
+    color: rgb(0, 0, 0);
+    background-color:rgb(214, 18, 18);
+    border-radius: 10px;
+    text-align: justify;
+    border-inline: 10px;
+    
+
+   
+}
+.emt{
+    border-radius: 10px;
+    background-color: aqua;
+}
+
+
+.site{
+    background-color: darkgreen;
+    text-align: justify ;
+    border: 5px solid tomato;
+    border-radius: 10px;
+    background-repeat: round;
+}
+img{
+    width: 400px;
+    
+}
+
+.gonta{
+    width: 500px;
+    border-radius: 5px;
+}
+.ipsm{
+    background-color: darkorange;
+    border-radius: 10px ;
+    border: 5px solid goldenrod;
+    text-align: justify;
+    width: 75%;
+   
+}
